@@ -1,1 +1,135 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T08:57:31.338Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" version="16.5.3" etag="hudAfwNL6zd_umYY9-VR" type="github"><diagram id="g4i44LuRXO1gJ2ILwC68">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-07T08:59:07.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="Bkn73OTY2M-Nq_xoFxCK" version="16.5.3" type="github">
+  <diagram id="g4i44LuRXO1gJ2ILwC68" name="Page-1">
+    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="06THX4qbu5sDyesPcfSg-1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="95" as="sourcePoint" />
+            <mxPoint x="180" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-2" value="" style="endArrow=classic;html=1;exitX=0.493;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429.0200000000002" y="97" as="sourcePoint" />
+            <mxPoint x="429" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-3" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="127.5" y="183" width="50" height="50" as="geometry">
+            <mxPoint x="429.5" y="161" as="sourcePoint" />
+            <mxPoint x="180.5" y="181" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-4" value="" style="endArrow=none;html=1;endFill=0;startArrow=classic;startFill=1;fontStyle=1" edge="1" parent="1">
+          <mxGeometry x="120" y="102" width="50" height="50" as="geometry">
+            <mxPoint x="429" y="131" as="sourcePoint" />
+            <mxPoint x="181" y="112" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-5" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="120" y="271" width="50" height="50" as="geometry">
+            <mxPoint x="430" y="278" as="sourcePoint" />
+            <mxPoint x="180" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-6" value="" style="endArrow=none;html=1;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry x="120.5" y="239" width="50" height="50" as="geometry">
+            <mxPoint x="429.5" y="240" as="sourcePoint" />
+            <mxPoint x="180.5" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-7" value="サーバ" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="154" y="75" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-8" value="トークン要求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="95" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-9" value="トークン" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="142" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-10" value="リクエスト＋トークン" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="195" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-11" value="レスポンス" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="323.5" y="268" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-12" value="トークン発行" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="145" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-13" value="トークン検証" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="245" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-14" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="06THX4qbu5sDyesPcfSg-8" target="06THX4qbu5sDyesPcfSg-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="45" as="sourcePoint" />
+            <mxPoint x="370" y="-5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="65" />
+              <mxPoint x="540" y="65" />
+              <mxPoint x="540" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-15" style="edgeStyle=none;html=1;entryX=0.613;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="06THX4qbu5sDyesPcfSg-17" target="06THX4qbu5sDyesPcfSg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-16" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="06THX4qbu5sDyesPcfSg-17" target="06THX4qbu5sDyesPcfSg-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="135" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="560" y="100" />
+              <mxPoint x="560" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-17" value="トークン&lt;br&gt;生成用符号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="85" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-18" value="センサ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="400" y="75" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-19" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="06THX4qbu5sDyesPcfSg-10" target="06THX4qbu5sDyesPcfSg-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="225" as="sourcePoint" />
+            <mxPoint x="540" y="285" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-20" value="送信元IPアドレス" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="40" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-21" value="送信元IPアドレス" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="447" y="175" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-22" value="" style="endArrow=none;html=1;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry x="120.5" y="349" width="50" height="50" as="geometry">
+            <mxPoint x="429.5" y="350" as="sourcePoint" />
+            <mxPoint x="180.5" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-23" value="リクエスト＋トークン" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="305" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="154" y="142" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-25" value="RRC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="192" width="34" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-26" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry x="120" y="373" width="50" height="50" as="geometry">
+            <mxPoint x="430" y="380" as="sourcePoint" />
+            <mxPoint x="180" y="402" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06THX4qbu5sDyesPcfSg-27" value="レスポンス" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="323.5" y="370" width="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
