@@ -1,40 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-02-05T08:15:31.898Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="MsTplVPfGabayRgfn7Ic" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-12T09:43:25.177Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="dWGeTrNlgHA1pT8nVv9d" version="16.5.6" type="github">
   <diagram id="jiUx4D6I5T2YyaPHQU99" name="Page-1">
-    <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SogB-17ufJ3r9nWmXm1e-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="SogB-17ufJ3r9nWmXm1e-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="140" y="90" width="470" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="SogB-17ufJ3r9nWmXm1e-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="SogB-17ufJ3r9nWmXm1e-2" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=游ゴシック;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="70" as="sourcePoint" />
             <mxPoint x="610" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SogB-17ufJ3r9nWmXm1e-3" value="処理の時系列" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="SogB-17ufJ3r9nWmXm1e-3" value="処理の時系列" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="500" y="40" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SogB-17ufJ3r9nWmXm1e-4" value="DTLS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="SogB-17ufJ3r9nWmXm1e-4" value="DTLS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="150" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SogB-17ufJ3r9nWmXm1e-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SogB-17ufJ3r9nWmXm1e-5" target="SogB-17ufJ3r9nWmXm1e-6">
+        <mxCell id="SogB-17ufJ3r9nWmXm1e-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=游ゴシック;" parent="1" source="SogB-17ufJ3r9nWmXm1e-5" target="SogB-17ufJ3r9nWmXm1e-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SogB-17ufJ3r9nWmXm1e-5" value="&lt;font color=&quot;#ffffff&quot;&gt;RRC&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="SogB-17ufJ3r9nWmXm1e-5" value="&lt;font color=&quot;#ffffff&quot;&gt;RRC&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="200" y="220" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SogB-17ufJ3r9nWmXm1e-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SogB-17ufJ3r9nWmXm1e-6" target="SogB-17ufJ3r9nWmXm1e-8">
+        <mxCell id="SogB-17ufJ3r9nWmXm1e-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=游ゴシック;" parent="1" source="SogB-17ufJ3r9nWmXm1e-6" target="SogB-17ufJ3r9nWmXm1e-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SogB-17ufJ3r9nWmXm1e-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SogB-17ufJ3r9nWmXm1e-6" target="SogB-17ufJ3r9nWmXm1e-9">
+        <mxCell id="SogB-17ufJ3r9nWmXm1e-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=游ゴシック;" parent="1" source="SogB-17ufJ3r9nWmXm1e-6" target="SogB-17ufJ3r9nWmXm1e-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SogB-17ufJ3r9nWmXm1e-6" value="認証" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="SogB-17ufJ3r9nWmXm1e-6" value="認証" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="340" y="220" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SogB-17ufJ3r9nWmXm1e-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="SogB-17ufJ3r9nWmXm1e-8" target="SogB-17ufJ3r9nWmXm1e-6">
+        <mxCell id="SogB-17ufJ3r9nWmXm1e-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;fontFamily=游ゴシック;" parent="1" source="SogB-17ufJ3r9nWmXm1e-8" target="SogB-17ufJ3r9nWmXm1e-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="170" />
@@ -42,18 +42,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SogB-17ufJ3r9nWmXm1e-14" value="&lt;font style=&quot;font-size: 12px&quot;&gt;依存&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SogB-17ufJ3r9nWmXm1e-12">
+        <mxCell id="SogB-17ufJ3r9nWmXm1e-14" value="&lt;font style=&quot;font-size: 12px&quot;&gt;依存&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=游ゴシック;" parent="SogB-17ufJ3r9nWmXm1e-12" vertex="1" connectable="0">
           <mxGeometry x="-0.2877" y="1" relative="1" as="geometry">
             <mxPoint x="-19" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SogB-17ufJ3r9nWmXm1e-8" value="改竄検知" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="SogB-17ufJ3r9nWmXm1e-8" value="改竄検知" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="480" y="180" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SogB-17ufJ3r9nWmXm1e-9" value="暗号化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="SogB-17ufJ3r9nWmXm1e-9" value="暗号化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="480" y="260" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SogB-17ufJ3r9nWmXm1e-15" value="&lt;font color=&quot;#ffffff&quot;&gt;RRCした相手と&lt;br&gt;通信し続けて&lt;br&gt;いることを担保&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#000000;position2=0.67;" vertex="1" parent="1">
+        <mxCell id="SogB-17ufJ3r9nWmXm1e-15" value="&lt;font color=&quot;#ffffff&quot;&gt;RRCした相手と&lt;br&gt;通信し続けて&lt;br&gt;いることを担保&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=12;fillColor=#000000;position2=0.67;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="470" y="102.5" width="120" height="85" as="geometry" />
         </mxCell>
       </root>
