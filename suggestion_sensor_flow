@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-12T09:50:30.083Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="wzKPicohzrUwNoizmaAL" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-12T09:50:49.665Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="857FzRv4Z4BBeseRs7n-" version="16.5.6" type="github">
   <diagram id="4q9Y7MkiCskxfo8Gw-RG" name="Page-1">
-    <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1033" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f3gf-IjV0h6P4WhFkfGx-3" value="パケット受信" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
-          <mxGeometry x="200" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f3gf-IjV0h6P4WhFkfGx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=游ゴシック;" parent="1" source="f3gf-IjV0h6P4WhFkfGx-6" target="f3gf-IjV0h6P4WhFkfGx-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
