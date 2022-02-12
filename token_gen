@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-12T09:45:28.713Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="3rQ9v2sqoy4PIJeWOPdC" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-12T09:51:07.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="nc5X9Kj9TuoPI7X6phd-" version="16.5.6" type="github">
   <diagram id="q06uQSIKD9H5kxNo3HD2" name="Page-1">
     <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="BM-FtZbPKsWjl_Uvhm3C-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=游ゴシック;" parent="1" source="BM-FtZbPKsWjl_Uvhm3C-1" target="BM-FtZbPKsWjl_Uvhm3C-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BM-FtZbPKsWjl_Uvhm3C-1" value="トークン生成用符号" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
+        <mxCell id="BM-FtZbPKsWjl_Uvhm3C-1" value="チケット生成用符号" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="220" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BM-FtZbPKsWjl_Uvhm3C-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.608;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=游ゴシック;" parent="1" source="BM-FtZbPKsWjl_Uvhm3C-2" target="BM-FtZbPKsWjl_Uvhm3C-3" edge="1">
@@ -22,7 +22,7 @@
         <mxCell id="BM-FtZbPKsWjl_Uvhm3C-3" value="SHA-256&lt;br&gt;(ハッシュ関数)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BM-FtZbPKsWjl_Uvhm3C-6" value="トークン" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
+        <mxCell id="BM-FtZbPKsWjl_Uvhm3C-6" value="チケット" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
