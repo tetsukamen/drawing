@@ -1,38 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T00:25:58.479Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="KOBX3ONB04NKQgIk_AEY" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-12T09:41:18.556Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="2MUEeECLDT-6d9_uFhoY" version="16.5.6" type="github">
   <diagram id="FZpIY4QtH-8Y1IBGfJmK" name="Page-1">
-    <mxGraphModel dx="1377" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ALGnF0rTPnS5gAgTLgyt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ALGnF0rTPnS5gAgTLgyt-1" target="ALGnF0rTPnS5gAgTLgyt-2">
+        <mxCell id="ALGnF0rTPnS5gAgTLgyt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=游ゴシック;" parent="1" source="ALGnF0rTPnS5gAgTLgyt-1" target="ALGnF0rTPnS5gAgTLgyt-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ALGnF0rTPnS5gAgTLgyt-1" value="トークン要求パケットを生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ALGnF0rTPnS5gAgTLgyt-1" value="トークン要求パケットを生成" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="256.25" y="120" width="177.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ALGnF0rTPnS5gAgTLgyt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ALGnF0rTPnS5gAgTLgyt-2" target="ALGnF0rTPnS5gAgTLgyt-3">
+        <mxCell id="ALGnF0rTPnS5gAgTLgyt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=游ゴシック;" parent="1" source="ALGnF0rTPnS5gAgTLgyt-2" target="ALGnF0rTPnS5gAgTLgyt-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ALGnF0rTPnS5gAgTLgyt-11" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="ALGnF0rTPnS5gAgTLgyt-6">
+        <mxCell id="ALGnF0rTPnS5gAgTLgyt-11" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=游ゴシック;" parent="ALGnF0rTPnS5gAgTLgyt-6" vertex="1" connectable="0">
           <mxGeometry x="-0.2727" y="3" relative="1" as="geometry">
             <mxPoint x="-3" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ALGnF0rTPnS5gAgTLgyt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ALGnF0rTPnS5gAgTLgyt-2" target="ALGnF0rTPnS5gAgTLgyt-4">
+        <mxCell id="ALGnF0rTPnS5gAgTLgyt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=游ゴシック;" parent="1" source="ALGnF0rTPnS5gAgTLgyt-2" target="ALGnF0rTPnS5gAgTLgyt-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ALGnF0rTPnS5gAgTLgyt-10" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="ALGnF0rTPnS5gAgTLgyt-7">
+        <mxCell id="ALGnF0rTPnS5gAgTLgyt-10" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=游ゴシック;" parent="ALGnF0rTPnS5gAgTLgyt-7" vertex="1" connectable="0">
           <mxGeometry x="-0.2267" y="1" relative="1" as="geometry">
             <mxPoint x="6" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ALGnF0rTPnS5gAgTLgyt-2" value="パケットサイズが&lt;br&gt;12Kbyte未満" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ALGnF0rTPnS5gAgTLgyt-2" value="パケットサイズが&lt;br&gt;12Kbyte未満" style="rhombus;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="265" y="235" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ALGnF0rTPnS5gAgTLgyt-3" value="送信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ALGnF0rTPnS5gAgTLgyt-3" value="送信" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="290" y="380" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ALGnF0rTPnS5gAgTLgyt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ALGnF0rTPnS5gAgTLgyt-4" target="ALGnF0rTPnS5gAgTLgyt-2">
+        <mxCell id="ALGnF0rTPnS5gAgTLgyt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=游ゴシック;" parent="1" source="ALGnF0rTPnS5gAgTLgyt-4" target="ALGnF0rTPnS5gAgTLgyt-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="545" y="210" />
@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ALGnF0rTPnS5gAgTLgyt-4" value="パディング" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ALGnF0rTPnS5gAgTLgyt-4" value="パディング" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="490" y="260" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
