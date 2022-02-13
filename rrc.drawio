@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-12T09:57:03.058Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="7OlZpsgDe9u7o8aFaNGG" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-13T09:33:39.486Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="aYeYfKgKfg4JTQq3rKQg" version="16.5.6" type="github">
   <diagram id="KfdXvxcvI5cZtabfhip-" name="Page-1">
     <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
             <mxPoint x="140" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RYE8tncCzNAv9k0Rwi5K-2" value="&lt;font style=&quot;font-size: 12px&quot;&gt;サーバ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
+        <mxCell id="RYE8tncCzNAv9k0Rwi5K-2" value="&lt;font style=&quot;font-size: 12px&quot;&gt;クライアント&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RYE8tncCzNAv9k0Rwi5K-3" style="edgeStyle=none;html=1;fontFamily=游ゴシック;" parent="1" source="RYE8tncCzNAv9k0Rwi5K-4" edge="1">
@@ -20,7 +20,7 @@
             <mxPoint x="620" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RYE8tncCzNAv9k0Rwi5K-4" value="&lt;font style=&quot;font-size: 12px&quot;&gt;センサ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
+        <mxCell id="RYE8tncCzNAv9k0Rwi5K-4" value="&lt;font style=&quot;font-size: 12px&quot;&gt;サーバ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RYE8tncCzNAv9k0Rwi5K-5" value="" style="endArrow=classic;html=1;fontSize=12;fontFamily=游ゴシック;" parent="1" edge="1">
