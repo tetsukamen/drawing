@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-12T09:50:49.665Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="857FzRv4Z4BBeseRs7n-" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-13T10:54:07.978Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="m8jJc3XZW4AinYXvEo6T" version="16.5.6" type="github">
   <diagram id="4q9Y7MkiCskxfo8Gw-RG" name="Page-1">
-    <mxGraphModel dx="1033" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f3gf-IjV0h6P4WhFkfGx-6" value="チケット要求か" style="rhombus;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
-          <mxGeometry x="195" y="250" width="130" height="90" as="geometry" />
+          <mxGeometry x="187.5" y="250" width="145" height="90" as="geometry" />
         </mxCell>
         <mxCell id="f3gf-IjV0h6P4WhFkfGx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=游ゴシック;" parent="1" source="f3gf-IjV0h6P4WhFkfGx-8" target="f3gf-IjV0h6P4WhFkfGx-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -53,8 +53,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f3gf-IjV0h6P4WhFkfGx-8" value="パケットサイズが12Kbyte以上か" style="rhombus;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
-          <mxGeometry x="195" y="390" width="130" height="90" as="geometry" />
+        <mxCell id="f3gf-IjV0h6P4WhFkfGx-8" value="ペイロードサイズが12Kbyte以上か" style="rhombus;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
+          <mxGeometry x="187.5" y="390" width="145" height="90" as="geometry" />
         </mxCell>
         <mxCell id="f3gf-IjV0h6P4WhFkfGx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=游ゴシック;" parent="1" source="f3gf-IjV0h6P4WhFkfGx-10" target="f3gf-IjV0h6P4WhFkfGx-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -66,7 +66,7 @@
         </mxCell>
         <mxCell id="f3gf-IjV0h6P4WhFkfGx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=游ゴシック;" parent="1" source="f3gf-IjV0h6P4WhFkfGx-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="295" as="targetPoint" />
+            <mxPoint x="600" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f3gf-IjV0h6P4WhFkfGx-28" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=游ゴシック;" parent="f3gf-IjV0h6P4WhFkfGx-20" vertex="1" connectable="0">
@@ -75,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f3gf-IjV0h6P4WhFkfGx-10" value="チケットが付与&lt;br&gt;されているか" style="rhombus;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
-          <mxGeometry x="400" y="250" width="130" height="90" as="geometry" />
+          <mxGeometry x="390" y="250" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="f3gf-IjV0h6P4WhFkfGx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=游ゴシック;" parent="1" source="f3gf-IjV0h6P4WhFkfGx-12" target="f3gf-IjV0h6P4WhFkfGx-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -87,7 +87,7 @@
         </mxCell>
         <mxCell id="f3gf-IjV0h6P4WhFkfGx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=游ゴシック;" parent="1" source="f3gf-IjV0h6P4WhFkfGx-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="435" as="targetPoint" />
+            <mxPoint x="600" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f3gf-IjV0h6P4WhFkfGx-30" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=游ゴシック;" parent="f3gf-IjV0h6P4WhFkfGx-19" vertex="1" connectable="0">
@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f3gf-IjV0h6P4WhFkfGx-12" value="チケット検証" style="rhombus;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
-          <mxGeometry x="400" y="390" width="130" height="90" as="geometry" />
+          <mxGeometry x="395" y="390" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="f3gf-IjV0h6P4WhFkfGx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=游ゴシック;" parent="1" source="f3gf-IjV0h6P4WhFkfGx-14" target="f3gf-IjV0h6P4WhFkfGx-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -112,8 +112,8 @@
         <mxCell id="f3gf-IjV0h6P4WhFkfGx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=游ゴシック;" parent="1" source="f3gf-IjV0h6P4WhFkfGx-16" target="f3gf-IjV0h6P4WhFkfGx-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="590" y="560" />
-              <mxPoint x="590" y="100" />
+              <mxPoint x="600" y="560" />
+              <mxPoint x="600" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
