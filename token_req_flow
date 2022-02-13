@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T10:53:00.009Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="qi-2_bzfr8yi2p28IDsi" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-13T10:53:10.657Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="riVxt1wvoCS_M7dQixVw" version="16.5.6" type="github">
   <diagram id="FZpIY4QtH-8Y1IBGfJmK" name="Page-1">
     <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ALGnF0rTPnS5gAgTLgyt-2" value="ペイロードサイズが&lt;br&gt;12Kbyte未満" style="rhombus;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
-          <mxGeometry x="265" y="235" width="160" height="90" as="geometry" />
+          <mxGeometry x="257.5" y="235" width="175" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ALGnF0rTPnS5gAgTLgyt-3" value="送信" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=游ゴシック;" parent="1" vertex="1">
           <mxGeometry x="290" y="380" width="110" height="40" as="geometry" />
