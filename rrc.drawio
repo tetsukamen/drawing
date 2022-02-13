@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T09:36:41.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="lYnomZyPsgfLpU10FcwO" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-13T09:43:08.724Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="wk02m-Pg5H332Rll8-iw" version="16.5.6" type="github">
   <diagram id="KfdXvxcvI5cZtabfhip-" name="Page-1">
-    <mxGraphModel dx="1033" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,9 +40,9 @@
             <mxPoint x="620" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kQcFz_HuSB37A0yRyPAH-3" value="&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;Request&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=游ゴシック;labelBackgroundColor=#FFFFFF;" parent="RYE8tncCzNAv9k0Rwi5K-7" vertex="1" connectable="0">
+        <mxCell id="kQcFz_HuSB37A0yRyPAH-3" value="&lt;span style=&quot;font-size: 12px ; text-align: left&quot;&gt;Request+符号&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=游ゴシック;labelBackgroundColor=#FFFFFF;" parent="RYE8tncCzNAv9k0Rwi5K-7" vertex="1" connectable="0">
           <mxGeometry x="-0.5486" y="2" relative="1" as="geometry">
-            <mxPoint x="-18" as="offset" />
+            <mxPoint x="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RYE8tncCzNAv9k0Rwi5K-8" value="" style="endArrow=classic;html=1;fontSize=12;fontFamily=游ゴシック;" parent="1" edge="1">
